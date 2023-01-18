@@ -1,0 +1,21 @@
+.bb{
+    background: url('../../img/5.jpg');
+    width: 100%;
+    height: 100vh;
+    background-size: 100% 100%;
+}
+
+.white{
+    position: absolute;
+    width: 100%;
+    height: 30px;
+    background: white;
+}
+
+.path{
+    width: 100%;
+    height: 100px;
+    position: absolute;
+    top: 130px;
+    left: 0;
+}
