@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import {BrowserRouter, Route, Routes} from "react-router-dom";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Main from "./Components/Main/Main";
 import Password from "./Components/Password/Password";
 import Documents from "./Components/Documents/Documents";
@@ -9,8 +9,9 @@ import s from "./main.css";
 
 
 function App() {
-  return (
-      <BrowserRouter>
+	return (
+		<BrowserRouter basename={process.env.PUBLIC_URL} >
+
           <div className="app">
               <div className="app__content">
                   <Routes>
@@ -23,7 +24,7 @@ function App() {
                   </Routes>
               </div>
           </div>
-      </BrowserRouter>
+      </BrowserRouter >
   );
 }
 
