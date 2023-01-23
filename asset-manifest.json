@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/kaspi/static/css/main.e8243ca4.css",
-    "main.js": "/kaspi/static/js/main.6451b8aa.js",
+    "main.css": "/kaspi/static/css/main.7a80105e.css",
+    "main.js": "/kaspi/static/js/main.37d4563a.js",
     "static/js/787.4534b2ef.chunk.js": "/kaspi/static/js/787.4534b2ef.chunk.js",
     "static/media/6.jpg": "/kaspi/static/media/6.dc8211d39ea1b5d33bbf.jpg",
     "static/media/5.jpg": "/kaspi/static/media/5.fc2a616d236f940710eb.jpg",
     "static/media/1.jpg": "/kaspi/static/media/1.8d8a929d5f8b36daf2e6.jpg",
     "static/media/2.jpg": "/kaspi/static/media/2.6b38f4412efb04ec2990.jpg",
     "static/media/6.png": "/kaspi/static/media/6.cca30887e006bb84c9bc.png",
-    "static/media/logo.svg": "/kaspi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/kaspi/index.html",
-    "main.e8243ca4.css.map": "/kaspi/static/css/main.e8243ca4.css.map",
-    "main.6451b8aa.js.map": "/kaspi/static/js/main.6451b8aa.js.map",
+    "main.7a80105e.css.map": "/kaspi/static/css/main.7a80105e.css.map",
+    "main.37d4563a.js.map": "/kaspi/static/js/main.37d4563a.js.map",
     "787.4534b2ef.chunk.js.map": "/kaspi/static/js/787.4534b2ef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8243ca4.css",
-    "static/js/main.6451b8aa.js"
+    "static/css/main.7a80105e.css",
+    "static/js/main.37d4563a.js"
   ]
 }
